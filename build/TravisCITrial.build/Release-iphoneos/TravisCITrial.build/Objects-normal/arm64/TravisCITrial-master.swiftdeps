@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "0d55944a5e520416e6c7c92872a77ddd"
+build_time: [507898626, 110621000]
+inputs:
+  "/Users/stefankerlin/Projects/TravisCITrial/TravisCITrial/AppDelegate.swift": [507894321, 0]
+  "/Users/stefankerlin/Projects/TravisCITrial/TravisCITrial/ViewController.swift": [507894449, 0]
