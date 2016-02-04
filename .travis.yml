@@ -1,1 +1,3 @@
 language: objective-c  #1
+xcode_project: TravisCITrial.xcodeproj #3
+xcode_scheme: TravisCITrial #4
